@@ -1,0 +1,4 @@
+[submodule "stesi/ftp_connector"]
+	path = stesi/ftp_connector
+	url = git@github.com:stesi/ftp_connector.git
+	branch = 14.0
