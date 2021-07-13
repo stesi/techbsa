@@ -2,3 +2,8 @@
 	path = stesi/ftp_connector
 	url = git@github.com:stesi/ftp_connector.git
 	branch = 14.0
+
+[submodule "stesi/techbsa_improvements"]
+	path = stesi/techbsa_improvements
+	url = git@github.com:stesi/techbsa_improvements.git
+	branch = 14.0
