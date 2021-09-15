@@ -7,3 +7,13 @@
 	path = stesi/techbsa_improvements
 	url = git@github.com:stesi/techbsa_improvements.git
 	branch = 14.0
+
+[submodule "OCA/project"]
+	path = OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 14.0
+
+[submodule "stesi/stesi_mrp"]
+	path = stesi/stesi_mrp
+	url = git@github.com:stesi/stesi_mrp.git
+	branch = 14.0
