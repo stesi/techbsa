@@ -17,3 +17,8 @@
 	path = stesi/stesi_mrp
 	url = git@github.com:stesi/stesi_mrp.git
 	branch = 14.0
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 14.0
