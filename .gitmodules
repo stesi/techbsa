@@ -27,3 +27,8 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 14.0
+
+[submodule "ingegniamo/techsba_product_config_custom"]
+	path = ingegniamo/techsba_product_config_custom
+	url = git@github.com:ingegniamo/techsba_product_config_custom.git
+	branch = 14.0
