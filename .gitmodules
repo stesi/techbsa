@@ -22,3 +22,18 @@
 	path = OCA/stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
 	branch = 14.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
+
+[submodule "ingegniamo/techsba_product_config_custom"]
+	path = ingegniamo/techsba_product_config_custom
+	url = git@github.com:ingegniamo/techsba_product_config_custom.git
+	branch = 14.0
+
+[submodule "OCA/product-configurator"]
+	path = OCA/product-configurator
+	url = git@github.com:OCA/product-configurator.git
+	branch = 14.0
